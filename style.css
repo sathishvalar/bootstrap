@@ -1,0 +1,36 @@
+*/{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-left: 100px;
+    margin-top: 20px;
+    cursor: se-resize;
+
+}
+h3{
+    margin-left: 70px;
+}
+
+.sc{
+    background-color: blue;
+    color: white;
+}
+.sci{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+img:hover{
+    cursor: pointer;
+}
+footer{
+    border: 2px dashed grey;
+    
+}
+
+
